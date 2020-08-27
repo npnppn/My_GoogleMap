@@ -1,6 +1,5 @@
 # MyGoogleMap
- 
-Search & Record current location using Android Studio
+ Search & Record current location using Android Studio
 
 # 목표
 주기적으로 자신의 위치를 기록하여 지도에 기록된 위치를 보여줄 수 있는 앱을 구현하도록 한다. 
